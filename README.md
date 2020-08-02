@@ -11,6 +11,7 @@
 2020.8.2
 Update [Chapter 2](./2-Getting-Started)
 
+Update [Chapter 3](./3-Growth-of-Functions)
 ---
 
 ## Appendix
